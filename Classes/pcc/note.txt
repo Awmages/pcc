@@ -1,0 +1,16 @@
+python print = print("something")
+input()
+
+c++ = cout("something")
+cin()
+
+java
+public void println()
+
+print("test code")
+
+city & state = "liberal, ks"
+
+cityStateCountry - camelCase
+
+city_state_country - snake_case
