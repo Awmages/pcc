@@ -1,0 +1,3 @@
+#Make an if, elif, else statment that prompts a user for a number, then compare that number to 3 cases (1 if, 2 elif's) and then has an else case (catchall).
+#Have python compare the number entered to a true/false modulo comparison to figure out if the number entered is a multiple of 2,3,5, or none of the above.
+#Have 1 print statement in each case informing the user of the multiple case (EX: "4 is a multiple of 2", 4 is the value entered by the user).
