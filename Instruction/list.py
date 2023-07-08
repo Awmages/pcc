@@ -18,7 +18,7 @@ print(gameLibraryDup[2:4]) #shows
 print(gameLibraryDup[-1])
 
 #apending a List
-GameCart = ["Myth", "MLP attack of the Mick", "Full Metal Textris"]
+GameCart = ["Myth", "MLP attack of the Micks", "Full Metal Textris"]
 GameCart.append("Python the Game")
 print(GameCart)
 
